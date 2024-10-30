@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ths30712\source\HEW\hew\test\main.cpp(2,6): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  test.vcxproj -> C:\Users\ths30712\source\HEW\hew\test\x64\Debug\test.exe
